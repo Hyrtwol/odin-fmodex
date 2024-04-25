@@ -1,5 +1,9 @@
 # fmodex
 
+FMODEX Version : 4.68.48
+
+For latest fmod bindings see <https://github.com/jakubtomsu/odin-fmod>
+
 To use the lib clone it in the shared folder in the odin root.
 
 ```bat
