@@ -4,9 +4,8 @@ FMODEX Version : 4.68.48
 
 For latest fmod bindings see <https://github.com/jakubtomsu/odin-fmod>
 
-To use the lib clone it in the shared folder in the odin root.
+One way to use the lib is to add it as a git submodule:
 
 ```bat
-cd %ODIN_ROOT%
-git clone ssh://git@gitea.ontogenesis.com:2222/odin/odin-fmodex.git shared/fmodex
+git submodule add --recursive git@github.com:Hyrtwol/odin-fmodex.git fmodex
 ```
